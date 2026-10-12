@@ -1,0 +1,269 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						6
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "external",
+					"jsonFile" : "directory-external-Debug-d8969718d56d94ae4e32.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "external"
+				},
+				{
+					"build" : "example/cpp/include",
+					"jsonFile" : "directory-example.cpp.include-Debug-9e0038adf2f6b7a8c50e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "example/cpp/include"
+				},
+				{
+					"build" : "lib",
+					"jsonFile" : "directory-lib-Debug-e9069484d90298468a11.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "lib"
+				},
+				{
+					"build" : "example",
+					"childIndexes" : 
+					[
+						5
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-example-Debug-6f8feb6c4826f0305503.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "example",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				},
+				{
+					"build" : "example/cpp/rt",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-example.cpp.rt-Debug-0f083e3c53a59db2105d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 1,
+					"source" : "example/cpp/rt",
+					"targetIndexes" : 
+					[
+						1,
+						5
+					]
+				},
+				{
+					"build" : "doc",
+					"jsonFile" : "directory-doc-Debug-6029fece2c59a9c3a315.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "doc"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						6
+					],
+					"name" : "librokae"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4,
+						5
+					],
+					"name" : "librokae-examples",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 4,
+					"id" : "Y_study_exp::@70983d692f648185febe",
+					"jsonFile" : "target-Y_study_exp-Debug-f38b146a195956dc236a.json",
+					"name" : "Y_study_exp",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "cartesian_impedance_control::@2a8c75c18c31123b5883",
+					"jsonFile" : "target-cartesian_impedance_control-Debug-f802f4988abf83b70281.json",
+					"name" : "cartesian_impedance_control",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "gripper_do_example::@70983d692f648185febe",
+					"jsonFile" : "target-gripper_do_example-Debug-de81f09f637e8d0470a0.json",
+					"name" : "gripper_do_example",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "ksl::@70983d692f648185febe",
+					"jsonFile" : "target-ksl-Debug-319703bc496535df95b5.json",
+					"name" : "ksl",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "ksl_test::@70983d692f648185febe",
+					"jsonFile" : "target-ksl_test-Debug-946cf8a65e28a772e92e.json",
+					"name" : "ksl_test",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "move_commands::@2a8c75c18c31123b5883",
+					"jsonFile" : "target-move_commands-Debug-61feb47d35f6601c6148.json",
+					"name" : "move_commands",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "move_example::@70983d692f648185febe",
+					"jsonFile" : "target-move_example-Debug-bdd54b91e3c33d648ee6.json",
+					"name" : "move_example",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "path_record::@70983d692f648185febe",
+					"jsonFile" : "target-path_record-Debug-1a34c2ecef3cd5681798.json",
+					"name" : "path_record",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "rl_project::@70983d692f648185febe",
+					"jsonFile" : "target-rl_project-Debug-65bdb3ad29d149615f8f.json",
+					"name" : "rl_project",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "sdk_example::@70983d692f648185febe",
+					"jsonFile" : "target-sdk_example-Debug-f0dbc20d784f29da33b7.json",
+					"name" : "sdk_example",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "smooth_move_test::@70983d692f648185febe",
+					"jsonFile" : "target-smooth_move_test-Debug-ccc30e5f881ead881ae3.json",
+					"name" : "smooth_move_test",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "study_example::@70983d692f648185febe",
+					"jsonFile" : "target-study_example-Debug-ac8e3152951518d75c12.json",
+					"name" : "study_example",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "vision_pick::@70983d692f648185febe",
+					"jsonFile" : "target-vision_pick-Debug-9dffdd7aed88f2c0b223.json",
+					"name" : "vision_pick",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/roake/roake/sdk/librokae-v0.2.8_clean/out/build/x64-Debug",
+		"source" : "D:/roake/roake/sdk/librokae-v0.2.8_clean"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

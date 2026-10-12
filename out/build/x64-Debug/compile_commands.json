@@ -1,0 +1,80 @@
+[
+{
+  "directory": "D:/roake/roake/sdk/librokae-v0.2.8_clean/out/build/x64-Debug",
+  "command": "D:\\Microsoft\\VS2022\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_USE_MATH_DEFINES -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\include -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\external /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /utf-8 /Foexample\\CMakeFiles\\sdk_example.dir\\cpp\\sdk_example.cpp.obj /Fdexample\\CMakeFiles\\sdk_example.dir\\ /FS -c D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\sdk_example.cpp",
+  "file": "D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\sdk_example.cpp",
+  "output": "example\\CMakeFiles\\sdk_example.dir\\cpp\\sdk_example.cpp.obj"
+},
+{
+  "directory": "D:/roake/roake/sdk/librokae-v0.2.8_clean/out/build/x64-Debug",
+  "command": "D:\\Microsoft\\VS2022\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_USE_MATH_DEFINES -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\include -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\external /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /utf-8 /Foexample\\CMakeFiles\\move_example.dir\\cpp\\move_example.cpp.obj /Fdexample\\CMakeFiles\\move_example.dir\\ /FS -c D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\move_example.cpp",
+  "file": "D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\move_example.cpp",
+  "output": "example\\CMakeFiles\\move_example.dir\\cpp\\move_example.cpp.obj"
+},
+{
+  "directory": "D:/roake/roake/sdk/librokae-v0.2.8_clean/out/build/x64-Debug",
+  "command": "D:\\Microsoft\\VS2022\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_USE_MATH_DEFINES -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\include -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\external /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /utf-8 /Foexample\\CMakeFiles\\path_record.dir\\cpp\\path_record.cpp.obj /Fdexample\\CMakeFiles\\path_record.dir\\ /FS -c D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\path_record.cpp",
+  "file": "D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\path_record.cpp",
+  "output": "example\\CMakeFiles\\path_record.dir\\cpp\\path_record.cpp.obj"
+},
+{
+  "directory": "D:/roake/roake/sdk/librokae-v0.2.8_clean/out/build/x64-Debug",
+  "command": "D:\\Microsoft\\VS2022\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_USE_MATH_DEFINES -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\include -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\external /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /utf-8 /Foexample\\CMakeFiles\\rl_project.dir\\cpp\\rl_project.cpp.obj /Fdexample\\CMakeFiles\\rl_project.dir\\ /FS -c D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\rl_project.cpp",
+  "file": "D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\rl_project.cpp",
+  "output": "example\\CMakeFiles\\rl_project.dir\\cpp\\rl_project.cpp.obj"
+},
+{
+  "directory": "D:/roake/roake/sdk/librokae-v0.2.8_clean/out/build/x64-Debug",
+  "command": "D:\\Microsoft\\VS2022\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_USE_MATH_DEFINES -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\include -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\external /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /utf-8 /Foexample\\CMakeFiles\\study_example.dir\\cpp\\study_example.cpp.obj /Fdexample\\CMakeFiles\\study_example.dir\\ /FS -c D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\study_example.cpp",
+  "file": "D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\study_example.cpp",
+  "output": "example\\CMakeFiles\\study_example.dir\\cpp\\study_example.cpp.obj"
+},
+{
+  "directory": "D:/roake/roake/sdk/librokae-v0.2.8_clean/out/build/x64-Debug",
+  "command": "D:\\Microsoft\\VS2022\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_USE_MATH_DEFINES -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\include -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\external /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /utf-8 /Foexample\\CMakeFiles\\vision_pick.dir\\cpp\\vision_pick.cpp.obj /Fdexample\\CMakeFiles\\vision_pick.dir\\ /FS -c D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\vision_pick.cpp",
+  "file": "D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\vision_pick.cpp",
+  "output": "example\\CMakeFiles\\vision_pick.dir\\cpp\\vision_pick.cpp.obj"
+},
+{
+  "directory": "D:/roake/roake/sdk/librokae-v0.2.8_clean/out/build/x64-Debug",
+  "command": "D:\\Microsoft\\VS2022\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_USE_MATH_DEFINES -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\include -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\external /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /utf-8 /Foexample\\CMakeFiles\\smooth_move_test.dir\\cpp\\smooth_move_test.cpp.obj /Fdexample\\CMakeFiles\\smooth_move_test.dir\\ /FS -c D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\smooth_move_test.cpp",
+  "file": "D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\smooth_move_test.cpp",
+  "output": "example\\CMakeFiles\\smooth_move_test.dir\\cpp\\smooth_move_test.cpp.obj"
+},
+{
+  "directory": "D:/roake/roake/sdk/librokae-v0.2.8_clean/out/build/x64-Debug",
+  "command": "D:\\Microsoft\\VS2022\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_USE_MATH_DEFINES -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\include -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\external /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /utf-8 /Foexample\\CMakeFiles\\gripper_do_example.dir\\cpp\\gripper_do_example.cpp.obj /Fdexample\\CMakeFiles\\gripper_do_example.dir\\ /FS -c D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\gripper_do_example.cpp",
+  "file": "D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\gripper_do_example.cpp",
+  "output": "example\\CMakeFiles\\gripper_do_example.dir\\cpp\\gripper_do_example.cpp.obj"
+},
+{
+  "directory": "D:/roake/roake/sdk/librokae-v0.2.8_clean/out/build/x64-Debug",
+  "command": "D:\\Microsoft\\VS2022\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_USE_MATH_DEFINES -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\include -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\external /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /utf-8 /Foexample\\CMakeFiles\\ksl.dir\\cpp\\ksl.cpp.obj /Fdexample\\CMakeFiles\\ksl.dir\\ /FS -c D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\ksl.cpp",
+  "file": "D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\ksl.cpp",
+  "output": "example\\CMakeFiles\\ksl.dir\\cpp\\ksl.cpp.obj"
+},
+{
+  "directory": "D:/roake/roake/sdk/librokae-v0.2.8_clean/out/build/x64-Debug",
+  "command": "D:\\Microsoft\\VS2022\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_USE_MATH_DEFINES -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\include -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\external /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /utf-8 /Foexample\\CMakeFiles\\ksl_test.dir\\cpp\\ksl_test.cpp.obj /Fdexample\\CMakeFiles\\ksl_test.dir\\ /FS -c D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\ksl_test.cpp",
+  "file": "D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\ksl_test.cpp",
+  "output": "example\\CMakeFiles\\ksl_test.dir\\cpp\\ksl_test.cpp.obj"
+},
+{
+  "directory": "D:/roake/roake/sdk/librokae-v0.2.8_clean/out/build/x64-Debug",
+  "command": "D:\\Microsoft\\VS2022\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_USE_MATH_DEFINES -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\include -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\external /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /utf-8 /Foexample\\CMakeFiles\\Y_study_exp.dir\\cpp\\Y_study_exp.cpp.obj /Fdexample\\CMakeFiles\\Y_study_exp.dir\\ /FS -c D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\Y_study_exp.cpp",
+  "file": "D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\Y_study_exp.cpp",
+  "output": "example\\CMakeFiles\\Y_study_exp.dir\\cpp\\Y_study_exp.cpp.obj"
+},
+{
+  "directory": "D:/roake/roake/sdk/librokae-v0.2.8_clean/out/build/x64-Debug",
+  "command": "D:\\Microsoft\\VS2022\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_USE_MATH_DEFINES -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\include -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\external /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /Foexample\\cpp\\rt\\CMakeFiles\\cartesian_impedance_control.dir\\cartesian_impedance_control.cpp.obj /Fdexample\\cpp\\rt\\CMakeFiles\\cartesian_impedance_control.dir\\ /FS -c D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\rt\\cartesian_impedance_control.cpp",
+  "file": "D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\rt\\cartesian_impedance_control.cpp",
+  "output": "example\\cpp\\rt\\CMakeFiles\\cartesian_impedance_control.dir\\cartesian_impedance_control.cpp.obj"
+},
+{
+  "directory": "D:/roake/roake/sdk/librokae-v0.2.8_clean/out/build/x64-Debug",
+  "command": "D:\\Microsoft\\VS2022\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_USE_MATH_DEFINES -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\include -ID:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\external /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /Foexample\\cpp\\rt\\CMakeFiles\\move_commands.dir\\move_commands.cpp.obj /Fdexample\\cpp\\rt\\CMakeFiles\\move_commands.dir\\ /FS -c D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\rt\\move_commands.cpp",
+  "file": "D:\\roake\\roake\\sdk\\librokae-v0.2.8_clean\\example\\cpp\\rt\\move_commands.cpp",
+  "output": "example\\cpp\\rt\\CMakeFiles\\move_commands.dir\\move_commands.cpp.obj"
+}
+]
